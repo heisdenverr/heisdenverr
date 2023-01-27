@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor==============================================================================================================================Python developer/Ai/Dl/Ml-------------------------I've been learning to code and now I'm learning new technologies* 🌍  I'm based in Nigeria* ✉️  You can contact me at [kwest6092@gmail.com](mailto:kwest6092@gmail.com)* 🧠  I'm learning deep learning* 🤝  I'm open to collaborating on interesting projects* ⚡  I'm Secretly 17, don't tell anyone
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor.
+Python developer/Ai/Dl/Ml--------I've been learning to code and now I'm learning new technologies* 🌍  I'm based in Nigeria* ✉️  You can contact me at [kwest6092@gmail.com](mailto:kwest6092@gmail.com)* 🧠  I'm learning deep learning* 🤝  I'm open to collaborating on interesting projects* ⚡  I'm Secretly 17, don't tell anyone
 
 <a href="https://www.github.com/heisdenverr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/heisdenverr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
